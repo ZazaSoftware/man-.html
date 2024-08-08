@@ -1,0 +1,11 @@
+git init 
+git add .
+git commit -m "messsage of the commit "
+git push
+
+git branch
+git branch branchname
+git chechout branchname 
+git checkout -b branchname 
+
+git pull 
