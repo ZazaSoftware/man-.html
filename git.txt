@@ -9,3 +9,5 @@ git chechout branchname
 git checkout -b branchname 
 
 git pull 
+
+THIS IS HOW TO SET UP THE GIT 
